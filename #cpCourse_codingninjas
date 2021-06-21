@@ -1,0 +1,86 @@
+Coding ninjas competetive programming course curriculum
+class 1 to 5
+	getting started	
+	conditions and loops
+	operators and for loops
+	functions variables and their scopes
+
+classes 6 to 10 
+ 	arrays 
+	searching and sorting
+	strings and 2d arryas 
+classes 11 to 15
+	pointers
+	dynamic allocation 
+	oops 1 and 2
+classes 16 to 20
+	the course will commenece with the basis of competetive coding. these are the most important topd of the course and which will become the base for the upcoming topics
+
+	basics of competetive coding
+	various types of errors
+	basics of recursion
+	time and space complexity
+	language tools 
+	stl
+	sorting and searching applications
+	binary search applications
+	live questions on above topics
+
+class 21 to 25
+	this segment will focus on most important topics for competetice proggramming such as recursion, bit manipualtion and greedy problems and more
+
+	backtracking 
+	recursion 2
+	recursion application
+	bit manipulation
+	applications of bit manipulation
+	greedy problems
+	greedy mathematics
+	live question on avbove topics
+
+Advance data structures
+
+class 26 to 30
+	this segment of course will comprise of the most important data structures which will help in solving range minimum query and competetive orogramming problems including sement trees and dynamic programming
+	Modulo arithmetic
+	application os modulo operations
+	dynamic programmin 1 and 2
+	dp plus maths problems 
+	segment tree with lazy propagation
+	application of segment tree
+	live question on above topics
+
+class 31 to 35
+	entering into the field of cp
+	graphs 1 and 2
+	dfs/bfs
+	application of graphs
+	string processing 
+	bitmasking
+	dp with bitmasking
+	game theory
+	live question
+class 36 to 40
+essential for cp
+	Number theory 1 2 3 and maths
+	applications of number theory
+	computational geometry
+	application of computational geometry
+	live question
+class 41 to above
+	advance topic
+	Fenwick Tree
+	application of fenwick tree
+	mixed probelms(Dp, graphs etc)
+	heavy light decompositon
+	fast fourier problem
+	live question on above topic
+
+----------------------------------------------------------------------------
+Binary search 
+	-order agnostic search
+	sorted array or not we dont know
+sorted hay to binary search lagaynge
+  
+	
+
