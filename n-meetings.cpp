@@ -24,5 +24,27 @@ void maxMeetings(int s[], int l[], int e[])
 	for(int i=0; i<n ; i++)
 	{
 		//iterating to the last element 
+		meet[i].start = s[i];
+		meet[i].end = e[i];
+		meet[i].pos = i+1;
+	}
+
+	sort(meet, meet+n, comparator);
+
+	vector<int> answer;
+
+	int limit = meet[0].end;
+
+	//when the meet start
+
+	for(int i=1; i<n; i++){
+		if(meet[i].start > limit){
+			limit = meet[i].end;
+			answer.push_back(meet[i].pos);
+		}
+	}
+
+	for(int i=0; i<answer.size(); i++){
+		cout<<ans[i]<<" ";
 	}
 }
