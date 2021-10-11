@@ -5,10 +5,13 @@
 
 
 struct meeting{
+	int start;
+	int end;
+	int pos;
 	
 }
 //making a comparator for the following 
-bool comparator(struct meeting m, meeting one){
+bool comparator(struct meeting m1, meeting m2){
 	if(m1.end<m2.end) return true;
 	else if(m1.end>m2.end) return false;
 	else if(m1.pos<m2.pos) return true;

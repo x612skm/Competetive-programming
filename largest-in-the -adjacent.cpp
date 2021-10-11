@@ -5,11 +5,19 @@ int main()
 {
 	int test;
 	cin>> test;
-	int n = test.size();
-	for(int i=0; i<n; i++)
+	
+	return;
+}
+int pair(int n)
+{
+	int size = n.size();
+	for(int i=0; i<size; i++)
 	{
-		//take the array as the input 
+		int arr[i] = i;
+	}
+
+	for(int i=0; i< size; i+=2)
+	{
 		
 	}
-	return;
 }
