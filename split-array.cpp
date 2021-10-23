@@ -31,7 +31,7 @@ public:
         }
 
         //binary search
-        while(start < arr){
+        while(start < end){
         	int mid = start + (end - start)/2;
 
         	int sum =0;
